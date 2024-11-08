@@ -43,5 +43,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Screenshot of the Game
 
-![Tic-Tac-Toe Game Start Screenshot](images/start.png)
-![Tic-Tac-Toe Game Winner Screenshot](images/winner.png)
+![Tic-Tac-Toe Game Start Screenshot](public/images/start.png)
+![Tic-Tac-Toe Game Winner Screenshot](public/images/winner.png)
